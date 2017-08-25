@@ -1,6 +1,9 @@
 {
   "name": "React-City",
   "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/Q-Angelo/React-City/issues"
+  },
   "repository": "https://github.com/Q-Angelo/React-City.git",
   "homepage": "https://q-angelo.github.io/React-City/",
   "dependencies": {
