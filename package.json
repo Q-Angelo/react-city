@@ -1,7 +1,7 @@
 {
-  "name": "react-city",
-  "version": "0.1.0",
-  "private": true,
+  "name": "React-City",
+  "version": "1.0.0",
+  "repository": "https://github.com/Q-Angelo/React-City.git",
   "homepage": "https://q-angelo.github.io/React-City/",
   "dependencies": {
     "gh-pages": "^1.0.0",
